@@ -20,4 +20,5 @@ Aquí abajo va una imagen
 <li>Clara</li>
 </ol>
 
-<a href="/noticias/site/tax/port/all/taxport_3___1.html">Mercados</a>
+**Link de la sección "Mercados" del Diario Financiero**
+[Mercados](https://www.df.cl/noticias/site/tax/port/all/taxport_3___1.html)
