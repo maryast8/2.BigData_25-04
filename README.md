@@ -9,4 +9,4 @@ Este es un repositorio de ejemplo.
 
 
 Aquí abajo va una imagen
-![un tigre](https://vignette.wikia.nocookie.net/reinoanimalia/images/5/58/Tigre_de_bengala_wiki.png/revision/latest/top-crop/width/360/height/450?cb=20130303105615&path-prefix=es)
+![Un tigre](https://www.caracteristicas.co/wp-content/uploads/2018/09/Tigre-e1537475681159.jpg)
