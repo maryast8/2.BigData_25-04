@@ -10,3 +10,10 @@ Este es un repositorio de ejemplo.
 
 Aquí abajo va una imagen
 ![Un tigre](https://www.caracteristicas.co/wp-content/uploads/2018/09/Tigre-e1537475681159.jpg)
+
+<ol>
+<li>Claudio</li>
+<li>Bruno</li>
+<li>Margarita</li>
+<li>Clara</li>
+</ol>
