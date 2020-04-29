@@ -22,3 +22,8 @@ Aquí abajo va una imagen
 
 **Link de la sección "Mercados" del Diario Financiero**
 [Mercados](https://www.df.cl/noticias/site/tax/port/all/taxport_3___1.html)
+
+> ###### Pd: Probando nuevos códigos
+
+>> - Esta es una prueba en <strong><em>negrita y cursiva</em></strong>.
+>> - O bien existe ***esta forma***.
