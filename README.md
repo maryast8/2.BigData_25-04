@@ -2,13 +2,11 @@
 
 Este es un repositorio de ejemplo.
 
-
 ## Lenguaje MarkDown
 
 ~~MarkDown~~
 *Texto en cursiva*
 **Texto en negrita**
-
 
 Aquí abajo va una imagen
 ![Un tigre](https://www.caracteristicas.co/wp-content/uploads/2018/09/Tigre-e1537475681159.jpg)
@@ -27,3 +25,9 @@ Aquí abajo va una imagen
 
 >> - Esta es una prueba en <strong><em>negrita y cursiva</em></strong>.
 >> - O bien existe ***esta forma***.
+
+Tabla
+Concepto    |  Definición
+----------- | -------------
+SmallData   | Microdatos
+BigData     | Macrodatos
